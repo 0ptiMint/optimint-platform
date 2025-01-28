@@ -120,7 +120,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for full 
 Have questions, feedback, or just want to say hi? Reach out!
 
 - **Email**: support@optimint.ai
-- **Twitter**: [@OptiMintAI](https://twitter.com/OptiMintAI)
+- **Twitter**: [@OptiMintAI](https://x.com/0ptiMint)
 
 Let’s connect and innovate together! 🌍
 
